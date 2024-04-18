@@ -1,0 +1,7 @@
+pip install virtualenv
+
+Criar pastas principais: virtualenv -p python3 venv
+
+(Trocar o interpretador para venv venv)
+
+Criar o requirement (dependencias): pip freeze > requirements.txt
